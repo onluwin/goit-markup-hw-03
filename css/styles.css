@@ -33,16 +33,14 @@ li {
   height: 80px;
   max-height: 80px;
   margin: 0 auto;
-}
-.container-head {
-  display: flex;
-  height: 80px;
-}
-.portfolio-head {
   border: 1px solid #ececec;
   border-left: none;
   border-right: none;
   border-top: none;
+}
+.container-head {
+  display: flex;
+  height: 80px;
 }
 .logo {
   color: #000000;
@@ -65,8 +63,8 @@ li {
 }
 .portfolio-nav {
   align-items: center;
-  margin-left: 215px;
   display: flex;
+  margin-right: auto;
 }
 
 .nav-menu {
