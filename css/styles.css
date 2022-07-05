@@ -311,7 +311,6 @@ li {
   background: #2f303a;
 }
 .footer-container {
-  margin: 0;
   height: 250px;
 }
 .footer-logo {
@@ -323,7 +322,6 @@ li {
   line-height: 1.19;
   letter-spacing: 0.03em;
   margin-bottom: 15px;
-  margin-left: 215px;
   color: #ffffff;
   padding-top: 60px;
 }
@@ -335,7 +333,6 @@ li {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
-  margin-left: 215px;
 }
 .footer-mail {
   font-family: "Roboto";
@@ -345,7 +342,6 @@ li {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-  margin-left: 215px;
 }
 .footer-mail:hover,
 .footer-mail:focus {
@@ -359,7 +355,6 @@ li {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-  margin-left: 215px;
 }
 .footer-tel:hover,
 .footer-tel:focus {
